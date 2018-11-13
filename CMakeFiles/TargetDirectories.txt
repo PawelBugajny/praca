@@ -1,0 +1,3 @@
+/home/mrok/Pulpit/GRA/gtests/CMakeFiles/edit_cache.dir
+/home/mrok/Pulpit/GRA/gtests/CMakeFiles/rebuild_cache.dir
+/home/mrok/Pulpit/GRA/gtests/CMakeFiles/runTests.dir
